@@ -20,3 +20,11 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 #### Monday, January 6th, 2020
 - Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) CSS Flexbox in Responsive Web Certification
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) List Basics: The Rest of It lesson of Java Lists course
+
+#### Tuesday, January 7th, 2020
+- Completed 30% of [freeCodeCamp's](https://www.freecodecamp.org/) CSS Grid in Responsive Web Certification
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Introducing Maps lesson of Java Maps course
+
+#### Wednesday, January 8th, 2020
+- Completed 55% of [freeCodeCamp's](https://www.freecodecamp.org/) CSS Grid in Responsive Web Certification
+- Completed all of [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) and started [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java)
