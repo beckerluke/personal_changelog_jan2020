@@ -33,3 +33,4 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 - Completed 77% of [freeCodeCamp's](https://www.freecodecamp.org/) CSS Grid in Responsive Web Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Regular Expressions in Java lesson
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Watermelon, Is n Divisible by x and y, and Lost Without a Map
+- Project: Worked on timezone implementation feature for DealReel project. Changed database sql type to use timestamp with timezone
