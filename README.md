@@ -42,3 +42,7 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 #### Monday, January 13th, 2020
 - Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) CSS Grid in Responsive Web Certification
 - Completed Tribute Page Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
+
+#### Tuesday, January 14th, 2020
+- Completed Build a Survey Form Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Importing External Code in Local Development Environments course
