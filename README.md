@@ -49,3 +49,7 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 
 #### Wednesday, January 15th, 2020
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Running Your Code in Local Development Environments course
+
+#### Thursday, January 16th, 2020
+- Completed Build a Product Landing Page Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Minimize Sum Of Array
