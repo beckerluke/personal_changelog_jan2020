@@ -68,3 +68,6 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 #### Thursday, January 23rd, 2020
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Using the Debugger in Local Development Environments course
 - Completed 60% of Build a Personal Portfolio Page Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
+
+#### Friday, January 24th, 2020
+- Completed 80% of Build a Personal Portfolio Page Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
