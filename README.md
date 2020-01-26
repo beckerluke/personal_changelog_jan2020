@@ -71,3 +71,6 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 
 #### Friday, January 24th, 2020
 - Completed 80% of Build a Personal Portfolio Page Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
+
+#### Saturday, January 25th, 2020
+- Completed 90% of Build a Personal Portfolio Page Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
