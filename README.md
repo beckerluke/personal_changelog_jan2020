@@ -77,4 +77,8 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 
 #### Sunday, January 26th, 2020
 - Reviewed keyword super in [Java Documentation](https://docs.oracle.com/javase/tutorial/java/IandI/super.html)
-- Reread chapter 1 of [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=1o2&hvnetw=g&hvrand=13264110340941117524&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023257&hvtargid=pla-422923046610&psc=1) 
+- Reread chapter 1 of [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=1o2&hvnetw=g&hvrand=13264110340941117524&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023257&hvtargid=pla-422923046610&psc=1)
+
+#### Monday, January 27th, 2020
+- Completed 100% of Build a Personal Portfolio Page Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
+- Completed 20% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
