@@ -86,3 +86,7 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 #### Tuesday, January 28th, 2020
 - Completed 32% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Debugger Quiz in Local Development Environments course
+
+#### Wednesday, January 29th, 2020
+- Completed 38% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Teamwork lesson in Local Development Environments course
