@@ -82,3 +82,7 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 #### Monday, January 27th, 2020
 - Completed 100% of Build a Personal Portfolio Page Project of [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Certification
 - Completed 20% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
+
+#### Tuesday, January 28th, 2020
+- Completed 32% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Debugger Quiz in Local Development Environments course
