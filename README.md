@@ -97,3 +97,10 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 #### Friday, January 31st, 2020
 - Completed 67% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Finishing Teamwork Quiz in Local Development Environments course
+
+#### Sunday, February 2nd, 2020
+Chiefs won the Super Bowl!
+
+### Monday, February 3rd, 2020
+- Completed 69% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Slam Dunk! lesson in Local Development Environments course
