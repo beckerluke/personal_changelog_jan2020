@@ -104,3 +104,7 @@ Chiefs won the Super Bowl!
 ### Monday, February 3rd, 2020
 - Completed 69% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Slam Dunk! lesson in Local Development Environments course
+
+### Thursday, February 6th, 2020
+- Completed 75% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Old School lesson in Java Lambdas course
