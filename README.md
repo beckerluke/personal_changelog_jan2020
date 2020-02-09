@@ -101,18 +101,18 @@ This is a personal changelog for the 30 day challenge starting January 1, 2020. 
 #### Sunday, February 2nd, 2020
 Chiefs won the Super Bowl!
 
-### Monday, February 3rd, 2020
+#### Monday, February 3rd, 2020
 - Completed 69% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Slam Dunk! lesson in Local Development Environments course
 
-### Thursday, February 6th, 2020
+#### Thursday, February 6th, 2020
 - Completed 75% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Old School lesson in Java Lambdas course
 
-### Friday, February 7th, 2020
+#### Friday, February 7th, 2020
 - Completed 91% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Introducing Lambdas and Method References lessons in Java Lambdas course
 
-### Sunday, February 9th, 2020
+#### Sunday, February 9th, 2020
 - Completed 94% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Started [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Unit Testing in Java course
