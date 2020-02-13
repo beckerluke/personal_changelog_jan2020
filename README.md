@@ -121,6 +121,9 @@ Chiefs won the Super Bowl!
 - Completed 97% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Introduction lesson in Unit Testing in Java course
 
-#### Monday, February 11th, 2020
+#### Tuesday, February 11th, 2020
 - Completed 98% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Defining a Unit lesson in Unit Testing in Java course
+
+#### Wednesday, February 12th, 2020
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) How we define units quiz in Unit Testing in Java course
