@@ -127,3 +127,6 @@ Chiefs won the Super Bowl!
 
 #### Wednesday, February 12th, 2020
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) How we define units quiz in Unit Testing in Java course
+
+#### Thursday, February 14th, 2020
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Introducing the Project lesson in Unit Testing in Java course
