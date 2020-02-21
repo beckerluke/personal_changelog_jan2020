@@ -139,3 +139,7 @@ Chiefs won the Super Bowl!
 
 #### Wednesday, February 19th, 2020
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Composition vs Inheritance quiz in Unit Testing in Java course
+
+#### Thursday, February 20th, 2020
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) The Quick Prototype lesson in Unit Testing in Java course
+- Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
