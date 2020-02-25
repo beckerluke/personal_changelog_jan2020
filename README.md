@@ -142,4 +142,8 @@ Chiefs won the Super Bowl!
 
 #### Thursday, February 20th, 2020
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) The Quick Prototype lesson in Unit Testing in Java course
-- Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification
+- Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) Basic Javascript section in JavaScript Algorithms and Data Structures Certification
+
+#### Monday, February 24th, 2020
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Single Responsibility quiz, Meet JUnit lesson, and Setting Up a Project for Tests in Unit Testing in Java course
+- Completed 8% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
