@@ -147,3 +147,7 @@ Chiefs won the Super Bowl!
 #### Monday, February 24th, 2020
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Single Responsibility quiz, Meet JUnit lesson, and Setting Up a Project for Tests in Unit Testing in Java course
 - Completed 8% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
+
+#### Monday, February 25th, 2020
+- Completed 14% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
+- Projects: Created user input form and post route to add an exercise for exercise toy app
