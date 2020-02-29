@@ -151,3 +151,10 @@ Chiefs won the Super Bowl!
 #### Monday, February 25th, 2020
 - Completed 14% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
 - Projects: Created user input form and post route to add an exercise for exercise toy app
+
+#### Thursday, February 27th, 2020
+- Projects: Created basic database layout for exercise toy app
+
+#### Friday, February 28th, 2020
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Assertions lesson in Unit Testing in Java course
+- Projects: Created logic to grab 5 random exercises from database for exercise toy app
